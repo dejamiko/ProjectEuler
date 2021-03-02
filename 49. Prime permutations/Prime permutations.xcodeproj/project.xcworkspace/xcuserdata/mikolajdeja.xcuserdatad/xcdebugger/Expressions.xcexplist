@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "2*primes[483]">
+            </PersistentString>
+            <PersistentString
+               value = "primes[67]+primes[854]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "areperm(int, int, int):main.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
